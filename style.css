@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(58, 23, 23);
+}
+
+label{
+    font-size: 30px;
+    color: blueviolet;
+}
+
+#h3_{
+    font-size: 50px;
+    color: aqua;
+   font-family: cursive
+}
